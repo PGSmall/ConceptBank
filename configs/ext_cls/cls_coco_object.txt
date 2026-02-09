@@ -1,0 +1,81 @@
+background, sky, atmosphere, wall, brick wall, concrete wall, tree, foliage, wood, grass, lawn, road, street, sea, ocean, river, mountain, sands, beach, desk, table, bed, building, house, cloud, lamp, light, door, window, wardrobe, cabinet, ceiling, shelf, curtain, stair, floor, ground, hill, rail, fence
+person, person in shirt, person in jeans, person in dress, person in sweater, person in skirt, person in jacket, body, human, pedestrian
+bicycle, pedal bicycle, pedal bike, pushbike, push bike, cycle
+car, automobile, passenger car, sedan, motor car, cars
+motorcycle, motorbike, motor cycle, street motorcycle, sport motorcycle, motorcycles
+airplane, aeroplane, aircraft, passenger plane, jet aircraft, airplanes
+bus, coach, city bus, public bus, transit bus, buses
+train, locomotive, passenger train, freight train, rail train, trains
+truck, lorry, pickup truck, cargo truck, delivery truck, trucks
+boat, motorboat, sailboat, fishing boat, small boat, boats
+traffic light, traffic signal, stoplight, signal light, traffic lights, traffic control light
+fire hydrant, hydrant, fireplug, water hydrant, street hydrant, fire hydrants
+stop sign, road stop sign
+parking meter, car meter
+bench, park bench, outdoor bench, wooden bench, bench seat
+bird, avian, winged animal
+cat, domestic cat, house cat, pet cat, feline
+dog, domestic dog, pet dog, canine, dog animal
+horse, equine, horse animal, riding horse, domestic horse
+sheep, wool sheep, sheep animal, lamb, domestic sheep
+cow, cattle, bovine, cow animal, dairy cow
+elephant, elephant animal, african elephant, asian elephant, wild elephant
+bear, bear animal, wild bear, brown bear, black bear
+zebra, zebra animal, striped zebra, wild zebra, zebra herd
+giraffe, giraffe animal, tall giraffe, wild giraffe, african giraffe
+backpack, back pack, rucksack, knapsack, school backpack
+umbrella, parasol, rain umbrella, sun umbrella, umbrella canopy
+handbag, purse, hand bag, lady handbag, shoulder bag
+tie, neck tie, necktie, bow tie, tie neckwear
+suitcase, luggage, travel suitcase, carry on suitcase, travel bag
+frisbee, flying disc, flying disk, disc toy, throwing disc
+skis, ski equipment, pair of skis, snow skis, ski boards
+snowboard, snow board, snowboarding board
+sports ball, ball, game ball, sport ball, round ball
+kite, flying kite, wind kite
+baseball bat, bat, baseball stick, wood bat, baseball club
+baseball glove, baseball mitt, catcher glove, fielding glove, mitt
+skateboard, skate board, skating board, street skateboard
+surfboard, surf board, surfing board, wave board
+tennis racket, tennis racquet, racket, tennis paddle
+bottle, water bottle, glass bottle, plastic bottle, beverage bottle
+wineglass, wine glass, stemmed glass, wine goblet, wine cup
+cup, drinking cup, mug, tea cup, coffee cup
+fork, dinner fork, table fork, eating fork, metal fork
+knife, table knife, dinner knife, kitchen knife, cutlery knife
+spoon, tablespoon, teaspoon, eating spoon, metal spoon
+bowl, dish bowl, serving bowl, soup bowl, round bowl
+banana, yellow banana, banana fruit, ripe banana, banana bunch
+apple, red apple, green apple, apple fruit, fresh apple
+sandwich, sub sandwich, filled sandwich, sandwich bread, lunch sandwich
+orange, orange fruit, citrus orange, fresh orange, ripe orange
+broccoli, broccoli florets, green broccoli, broccoli vegetable, broccoli head
+carrot, orange carrot, carrot vegetable, fresh carrot, carrot root
+hotdog, hot dog, frankfurter, sausage bun, hot dog bun
+pizza, pizza slice, cheese pizza, pepperoni pizza
+donut, doughnut, ring donut, glazed donut, sweet donut
+cake, piece of cake, birthday cake, layer cake, dessert cake
+chair, dining chair, wooden chair, side chair, straight chair
+couch, sofa, settee, living room couch, fabric couch
+potted plant, houseplant, flower pot
+bed, bed frame, sleeping bed, double bed, single bed
+diningtable, dining table, dinner table, dining room table, kitchen table
+toilet, toilet bowl, commode, wc, flush toilet, toilets
+tv, tvmonitor, tv monitor, television monitor, television screen, flat screen tv
+laptop, notebook computer, portable computer, laptop pc
+mouse, computer mouse, pc mouse, optical mouse, wireless mouse, mice
+remote, remote control, tv remote, remote controller, handheld remote
+keyboard, computer keyboard, pc keyboard, typing keyboard
+cell phone, mobile phone, smartphone, cellphone
+microwave, microwave oven, microwave cooker, microwave appliance, microwave unit
+oven, baking oven, kitchen oven, stove oven, electric oven
+toaster, bread toaster, pop up toaster, toasting machine, toaster appliance
+sink, washbasin, kitchen sink, bathroom sink, basin
+refrigerator, fridge, icebox, refrigerator unit, kitchen fridge
+book, hardcover book, paperback book, book volume, textbook
+clock, wall clock, timepiece, analog clock, digital clock
+vase, flower vase, ceramic vase, glass vase, decorative vase
+scissors, pair of scissors, cutting scissors, metal scissors, scissor tool
+teddybear, teddy bear, stuffed bear, plush bear, teddy plush
+hairdrier, hair drier, hair dryer, blow dryer
+toothbrush, dental brush

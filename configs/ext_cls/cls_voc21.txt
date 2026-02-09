@@ -1,0 +1,21 @@
+background, sky, wall, tree, wood, grass, road, sea, river, mountain, sands, desk, bed, building, cloud, lamp, door, window, wardrobe, ceiling, shelf, curtain, stair, floor, hill, rail, fence
+aeroplane, airplane, aircraft, plane, jet, biplane, monoplane, airliner, bomber, fighter jet, hydroplane, military aircraft
+bicycle, bike, cycle, pedal bicycle, tandem, mountain bike
+bird, avian, birdie, wild bird
+ship, boat, watercraft, vessel, barge, ferry, canoe, yacht, ocean liner, cruise ship, sailing boat, rowing boat
+bottle, glass bottle, plastic bottle, wine bottle, beer bottle, soda bottle, ketchup bottle, water bottle, beverage bottle
+bus, coach, city bus, public bus, transit bus
+car, automobile, vehicle, motorcar, sedan, hatchback, saloon, convertible, limousine, cruiser, police car, taxi, suv, van
+cat, feline, kitten, domestic cat, tabby cat, tortoiseshell cat, ginger cat, stray cat
+chair, seat, armchair, recliner, rocking chair, swivel chair, deck chair, camp chair, sitting chair, office chair, chaise lounge
+cow, cattle, bovine, heifer, dairy cow, bull, ox
+table, dining table, kitchen table, coffee table, desk, wooden table
+dog, canine, hound, puppy, pup, hunting dog, domestic dog
+horse, equine, foal, mare, racehorse, thoroughbred, pony, cavalry horse
+motorbike, motorcycle, moped, scooter, minibike, dirt bike, motocross bike, sidecar, motorcycling vehicle
+person, human, people, man, woman, child, baby, toddler, family member, pedestrian
+pottedplant, potted plant, pot plant, houseplant, flower pot, plant in pot, indoor plant
+sheep, ram, lamb, ewe, woolly sheep
+sofa, couch, settee, chesterfield, divan, lounge sofa, living room sofa
+train, locomotive, subway train, steam train, freight train, commuter train, railway train, metro, light rail
+television monitor, tv monitor, monitor, television, tv, screen, flatscreen, plasma screen, lcd screen, crt screen, computer monitor, display

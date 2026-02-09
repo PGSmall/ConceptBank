@@ -1,0 +1,171 @@
+person, human, pedestrian, human figure, standing person, people
+bicycle, pedal bicycle, pedal bike, pushbike, push bike, cycle
+car, automobile, passenger car, sedan, motor car
+motorcycle, motorbike, motor cycle, street motorcycle, sport motorcycle
+airplane, aeroplane, aircraft, passenger plane, jet aircraft
+bus, coach, city bus, public bus, transit bus
+train, locomotive, passenger train, freight train, rail train
+truck, lorry, pickup truck, cargo truck, delivery truck
+boat, motorboat, sailboat, fishing boat, small boat
+traffic light, traffic signal, stoplight, signal light, traffic lights, traffic control light
+fire hydrant, hydrant, fireplug, water hydrant, street hydrant
+stop sign, stop street sign, octagon stop sign, stop sign board, traffic stop sign
+parkingmeter, parking meter
+bench, park bench, outdoor bench, wooden bench, bench seat
+bird, wild bird, flying bird, small bird, bird animal, avian
+cat, domestic cat, house cat, pet cat, feline
+dog, domestic dog, pet dog, canine, dog animal
+horse, equine, horse animal, riding horse, domestic horse
+sheep, wool sheep, sheep animal, lamb, domestic sheep
+cow, cattle, bovine, cow animal, dairy cow
+elephant, elephant animal, african elephant, asian elephant, wild elephant
+bear, bear animal, wild bear, brown bear, black bear
+zebra, zebra animal, striped zebra, wild zebra, zebra herd
+giraffe, giraffe animal, tall giraffe, wild giraffe, african giraffe
+backpack, back pack, rucksack, knapsack, school backpack
+umbrella, parasol, rain umbrella, sun umbrella, umbrella canopy
+handbag, purse, hand bag, lady handbag, shoulder bag
+tie, neck tie, necktie, bow tie, tie neckwear
+suitcase, luggage, travel suitcase, carry on suitcase, travel bag
+frisbee, flying disc, flying disk, disc toy, throwing disc
+skis, ski equipment, pair of skis, snow skis, ski boards
+snowboard, snow board, snowboarding board, winter board
+sports ball, ball, game ball, sport ball, round ball
+kite, flying kite, paper kite, kite toy, wind kite
+baseball bat, bat, baseball stick, wood bat, baseball club
+baseball glove, baseball mitt, catcher glove, fielding glove, mitt
+skateboard, skate board, skating board, street skateboard
+surfboard, surf board, surfing board, wave board
+tennis racket, tennis racquet, racket, tennis paddle
+bottle, water bottle, glass bottle, plastic bottle, beverage bottle
+wine glass, wineglass, stemmed glass, wine goblet, wine cup
+cup, drinking cup, mug, tea cup, coffee cup
+fork, dinner fork, table fork, eating fork, metal fork
+knife, table knife, dinner knife, kitchen knife, cutlery knife
+spoon, tablespoon, teaspoon, eating spoon, metal spoon
+bowl, dish bowl, serving bowl, soup bowl, round bowl
+banana, yellow banana, banana fruit, ripe banana, banana bunch
+apple, red apple, green apple, apple fruit, fresh apple
+sandwich, sub sandwich, filled sandwich, sandwich bread, lunch sandwich
+orange, orange fruit, citrus orange, fresh orange, ripe orange
+broccoli, broccoli florets, green broccoli, broccoli vegetable, broccoli head
+carrot, orange carrot, carrot vegetable, fresh carrot, carrot root
+hot dog, hotdog, frankfurter, sausage bun, hot dog bun
+pizza, pizza slice, cheese pizza, pizza pie, pepperoni pizza
+donut, doughnut, ring donut, glazed donut, sweet donut
+cake, piece of cake, birthday cake, layer cake, dessert cake
+chair, dining chair, wooden chair, side chair, straight chair
+couch, sofa, settee, living room couch, fabric couch
+potted plant, pottedplant, plant pot, houseplant in pot, indoor potted plant
+bed, bed frame, sleeping bed, double bed, single bed
+dining table, diningtable, dinner table, dining room table, kitchen table
+toilet, toilet bowl, commode, wc, flush toilet
+tv, television, television set, flat screen tv, tv monitor
+laptop, notebook computer, portable computer, laptop pc
+mouse, computer mouse, pc mouse, optical mouse, wireless mouse, mice
+remote, remote control, tv remote, remote controller, handheld remote
+keyboard, computer keyboard, pc keyboard, typing keyboard, keypad
+cell phone, mobile phone, smartphone, cellphone
+microwave, microwave oven, microwave cooker, microwave appliance, microwave unit
+oven, baking oven, kitchen oven, stove oven, electric oven
+toaster, bread toaster, pop up toaster, toasting machine, toaster appliance
+sink, washbasin, kitchen sink, bathroom sink, basin
+refrigerator, fridge, icebox, refrigerator unit, kitchen fridge
+book, hardcover book, paperback book, book volume, textbook
+clock, wall clock, timepiece, analog clock, digital clock
+vase, flower vase, ceramic vase, glass vase, decorative vase
+scissors, pair of scissors, cutting scissors, metal scissors, scissor tool
+teddy bear, teddybear, stuffed bear, plush bear, teddy plush
+hair drier, hairdrier, hair dryer, blow dryer, hair blower
+toothbrush, tooth brush, dental toothbrush, manual toothbrush, bathroom toothbrush
+banner, hanging banner, fabric banner, banner sign, decorative banner
+blanket, bed blanket, throw blanket, cover blanket, wool blanket
+branch, tree limb, bough, twig, branch limb
+bridge, road bridge, overpass bridge, bridge span, bridge structure
+building-other, other building, misc building, unlabeled building, building structure
+bush, shrub, shrubbery, bush plant, hedge, shrub bush
+cabinet, storage cabinet, kitchen cabinet, cupboard, cabinet unit
+cage, wire cage, animal cage, pet cage, metal cage
+cardboard, cardboard paper, cardboard sheet, cardboard box material, corrugated cardboard
+carpet, carpeting, wall to wall carpet, carpet flooring, carpeted floor
+ceiling-other, other ceiling, misc ceiling, ceiling surface, unclassified ceiling
+ceiling-tile, ceiling tile, tiled ceiling
+cloth, fabric, textile
+clothes, clothing, apparel, garment
+clouds, cloudy sky, white clouds
+counter, service counter, shop counter, checkout counter, counter surface
+cupboard, kitchen cupboard, cupboard cabinet, storage cupboard, cupboard doors
+curtain, window curtain, drapes, window drape, curtain fabric
+desk-stuff, desk, office desk, writing desk, work desk
+dirt, soil dirt, earth dirt, dirt ground, dusty dirt
+door-stuff, door surface, door panel, doorway area, door frame
+fence, fencing, wood fence, wire fence, boundary fence
+floor-marble, marble floor, marble flooring, polished marble floor, marble tile floor
+floor-other, other floor, misc floor, floor surface, unclassified floor
+floor-stone, stone floor, stone flooring, rock floor, slate floor
+floor-tile, tile floor, tiled floor, ceramic tile floor, floor tiles
+floor-wood, wood floor, wooden floor, hardwood floor, timber floor
+flower, blossom, bloom, flower plant, floral flower
+fog, mist, haze, foggy air, misty fog
+food-other, other food, misc food, unlabeled food, assorted food, various food
+fruit, fresh fruit, assorted fruit, fruit pieces, fruit food
+furniture-other, other furniture, misc furniture, unlabeled furniture, assorted furniture
+grass, green grass, lawn grass, grassland, grassy ground
+gravel, gravel ground, small stones, gravel stones, gravel surface
+ground-other, other ground, misc ground, ground surface, unclassified ground
+hill, small hill, hill slope, hillside, grassy hill
+house, home, residential house, house building, dwelling house
+leaves, leaf, foliage, tree leaves, leafy foliage
+light, light fixture, lamp, ceiling light, electric light
+mat, floor mat, doormat, rug mat, welcome mat
+metal, metal surface, metal material, metal sheet, metallic
+mirror-stuff, mirror, looking glass, mirror surface, reflective mirror
+moss, mossy growth, green moss, moss ground, moss patch
+mountain, mountain range, rocky mountain, mountain peak, high mountain
+mud, muddy ground, wet mud, mud soil, mud surface
+napkin, table napkin, paper napkin, cloth napkin, serviette
+net, mesh net, netting, fishing net, wire net
+paper, paper sheet, paper material, paper surface, paper pages
+pavement, paved ground, asphalt pavement, concrete pavement, street pavement
+pillow, cushion pillow, bed pillow, throw pillow, soft pillow
+plant-other, other plant, misc plant, unlabeled plant, plant vegetation
+plastic, plastic material, plastic surface, plastic sheet, polymer plastic
+platform, raised platform, stage platform, platform surface, platform deck
+playingfield, sports field, playing field, game field, athletic field
+railing, handrail, guard rail, balustrade, stair railing
+railroad, railway tracks, train tracks, rail track, railway line
+river, stream, river water, creek, river channel
+road, street, roadway, paved road, asphalt road
+rock, stone, boulder, rocks, rocky stone
+roof, building roof, roof top, rooftop, roof surface
+rug, area rug, floor rug, throw rug, small rug
+salad, vegetable salad, salad bowl, mixed salad, fresh salad
+sand, sandy ground, beach sand, sand surface, sandy soil
+sea, ocean, seawater, open sea, sea surface
+shelf, shelving, storage shelf, wall shelf, shelf unit
+sky-other, sky, sky background, sky area, open sky
+skyscraper, high rise, highrise building, tall building, tower block
+snow, snow cover, snowy ground, snow surface, white snow
+solid-other, other solid, misc solid, unclassified solid, solid material
+stairs, staircase, flight of stairs, stair steps, stairway steps
+stone, rock stone, stone surface, stone material, stone pieces
+straw, dry straw, straw hay, straw material, straw pieces
+structural-other, other structure, misc structure, unlabeled structure, structural element
+table, table surface, tabletop, work table, wood table, table furniture
+tent, camp tent, camping tent, canvas tent, outdoor tent
+textile-other, other textile, misc fabric, unlabeled textile, textile material
+towel, bath towel, hand towel, towel cloth, drying towel
+tree, trees, large tree, tree trunk, standing tree, tree canopy
+vegetable, fresh vegetable, green vegetable, vegetable produce, raw vegetable, vegetable food
+wall-brick, brick wall, brickwork wall, brick masonry wall, wall of brick
+wall-concrete, concrete wall, cement wall
+wall-other, other wall, misc wall, unclassified wall, wall surface
+wall-panel, paneled wall, wall paneling, panel wall, wall panels
+wall-stone, stone wall, rock wall
+wall-tile, tiled wall, bathroom wall
+wall-wood, wood wall, wooden wall, timber wall, wood panel wall
+water-other, other water, misc water, water surface, unclassified water
+waterdrops, water drops, droplets, water droplets, raindrops
+window-blind, window blind, venetian blinds, blind slats, window shade
+window-other, other window, misc window, window opening, unclassified window
+wood, wooden material, timber, wood surface, lumber

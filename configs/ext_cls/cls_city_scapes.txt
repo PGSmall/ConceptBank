@@ -1,0 +1,19 @@
+road, street, roadway, paved road, asphalt road
+sidewalk, pavement, footway, pedestrian sidewalk, concrete sidewalk
+building, edifice, house, skyscraper, architecture, bus stop shelter, scaffolding structure, garage building, concrete building
+wall, freestanding wall, stone wall, brick wall, concrete barrier, vertical wall, garden wall
+fence, fencing, wood fence, wire fence, boundary fence, garden fence
+pole, utility pole, sign pole, traffic light pole, street post, vertical pole, metal pole
+trafficlight, traffic light, traffic signal, stoplight, signal light
+trafficsign, traffic sign, road sign, street sign, traffic signage
+vegetation, plants, greenery, foliage, vegetation cover, green vegetation
+terrain, grass, lawn, soil, sand, horizontal vegetation, dirt ground, earth, grassy area
+sky, blue sky, cloudy sky, sky background, sky area
+person, pedestrian, human, walking person, standing person, person on legs, child, man, woman
+rider, bicyclist, motorcyclist, biker
+car, automobile, passenger car, sedan, suv, jeep, van, private vehicle, continuous body vehicle
+truck, lorry, pickup truck, delivery truck, heavy truck, cargo truck, truck with trailer, transport vehicle
+bus, coach, city bus, public bus, transit bus
+train, locomotive, passenger train, freight train, rail train
+motorcycle, motorbike, motor cycle, street motorcycle, sport motorcycle
+bicycle, pedal bicycle, pedal bike, pushbike, push bike, cycle

@@ -1,0 +1,6 @@
+impervious surface, road, concrete, sidewalk
+building, roof
+low vegetation, grass, red grass
+tree, tall vegetation, red tree, red tall vegetation
+car, vehicle
+clutter, background, void area, unknown region

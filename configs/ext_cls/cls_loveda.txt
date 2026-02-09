@@ -1,0 +1,7 @@
+background, clutter, void area, unknown region
+building, rooftop, roof, house, edifice, concrete building, residential house, apartment, factory, warehouse
+road, street, highway, concrete path, lane, driveway, dirt road, driving surface
+water, river, lake, pond, reservoir, canal, ditch, water surface
+barren, bare land, soil, dirt, construction site, wasteland, sand, mud, dug ground, earth, excavation area, dry land
+forest, tree, woodland, woods, tree canopy, high vegetation, grove, park trees, vegetation cluster, green woods
+agricultural, farmland, farm, rural

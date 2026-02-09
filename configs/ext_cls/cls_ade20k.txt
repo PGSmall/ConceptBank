@@ -1,0 +1,150 @@
+wall, wall surface, vertical wall, interior wall, exterior wall
+building, structure, edifice, building facade, building exterior
+sky, blue sky, cloudy sky, sky background, sky area
+floor, flooring, floor surface, indoor floor, ground floor
+tree, tree trunk, large tree, leafy tree, standing tree, tree canopy
+ceiling, ceiling surface, indoor ceiling, overhead ceiling, ceiling panel
+road, street, roadway, paved road, asphalt road
+bed, bed frame, sleeping bed, double bed, single bed
+windowpane, window pane, window glass, glass pane, window glazing
+grass, lawn, meadow, turf
+cabinet, storage cabinet, kitchen cabinet, cupboard, cabinetry, cabinet unit
+sidewalk, pavement, footway, pedestrian sidewalk, concrete sidewalk
+person, human, pedestrian, human figure, standing person, people
+earth, bare soil, soil ground, dirt ground, earth soil
+door, doorway, door panel, house door, entry door
+table, dining table, desk, wooden table
+mountain, mountain range, mountain peak, rocky mountain, high mountain, mountain slope
+plant, green plant, house plant, leafy plant, vegetation plant
+curtain, window curtain, drapes, window drape, curtain fabric
+chair, dining chair, wooden chair, side chair, straight chair
+car, automobile, passenger car, sedan, motor car, cars
+water, water surface, standing water, shallow water, water body
+painting, picture, art frame, canvas
+sofa, couch, settee, living room sofa, sectional sofa
+shelf, shelving, storage shelf, wall shelf, shelf unit
+house, home, residential house, dwelling house, family home, house exterior
+sea, ocean, seawater, open sea, sea surface, saltwater
+mirror, looking glass, wall mirror, bathroom mirror, reflective mirror
+rug, area rug, floor rug, throw rug, patterned rug, small rug
+field, pasture, farmland, meadow
+armchair, arm chair, easy chair, club chair, upholstered armchair
+seat, sitting seat, vehicle seat, car seat, seat base
+fence, fencing, wood fence, wire fence, boundary fence, garden fence
+desk, work desk, office desk, writing desk, study desk
+rock, stone, boulder, large rock, rock formation
+wardrobe, armoire, clothes wardrobe, wardrobe closet, clothing closet
+lamp, table lamp, desk lamp, floor lamp, bedside lamp
+bathtub, bath tub, bathtub basin, bathtub fixture, tub
+railing, handrail, guard rail, stair railing, balustrade rail
+cushion, pillow, pad, bolster
+base, pedestal, stand, foundation, bottom
+box, cardboard box, storage box, packing box, box container
+column, pillar, post, support
+signboard, sign board, shop sign, sign panel, store signboard
+chestofdrawers, chest of drawers, dresser, bureau
+counter, service counter, shop counter, checkout counter, sales counter
+sand, sandy ground, beach sand, sand surface, sand area
+sink, washbasin, wash bowl
+skyscraper, high rise, highrise building, tall skyscraper, towering building
+fireplace, fire place, hearth, chimney fireplace, indoor fireplace
+refrigerator, fridge, icebox, refrigerator unit, kitchen fridge
+grandstand, bleachers, stadium stand, spectator stand, viewing stand
+path, trail, foot trail, dirt path, garden path
+stairs, staircase, flight of stairs, stair steps, stair set
+runway, airport runway, landing strip, takeoff runway, airstrip
+case, display case, casing, container
+pooltable, pool table, billiard table, snooker table, cue table
+pillow, bed pillow, cushion pillow, head pillow, sleeping pillow
+screen, projection screen, display screen, movie screen, screen panel
+stairway, stairwell, stair passage, stair hall, indoor stairway
+river, stream, creek, river channel, flowing river, river water
+bridge, road bridge, river bridge, bridge span, overpass bridge, bridge structure
+bookcase, bookshelf, book shelf, book cabinet, library bookcase
+blind, window blind, venetian blind, window shade, blind slats
+coffeetable, coffee table, low table
+toilet, toilet bowl, commode, wc, flush toilet
+flower, bloom, blossom, flower plant, flower bouquet
+book, hardcover book, paperback book, book volume, textbook
+hill, small hill, hillside, hill slope, rolling hill, hill terrain
+bench, bench seat, park bench, outdoor bench, wooden bench
+countertop, counter top, kitchen countertop, worktop, counter surface
+stove, cookstove, kitchen stove, cooker, stovetop
+palm, palm tree, coconut tree
+kitchen island, island counter, kitchen island unit, island worktop
+computer, pc, desktop, monitor
+swivelchair, swivel chair, office chair, rotating chair, desk chair
+boat, motorboat, sailboat, fishing boat, small boat
+bar, bar counter, pub bar, drinks bar, bar area
+arcademachine, arcade machine, game cabinet
+hovel, shack, hut, shanty, ramshackle hut
+bus, coach, city bus, public bus, transit bus
+towel, bath towel, hand towel, cloth
+light, light fixture, lamp, ceiling light, electric light
+truck, lorry, pickup truck, cargo truck, delivery truck
+tower, watchtower, tower structure, tall tower, tower building
+chandelier, ceiling chandelier, hanging chandelier, crystal chandelier, light chandelier
+awning, sun awning, shop awning, window awning, shade awning
+streetlight, street light, lamp post light, street lamp, roadside light
+booth, stall, kiosk booth, phone booth, ticket booth
+television receiver, television, tv set, television set, tv receiver
+airplane, aeroplane, aircraft, passenger plane, jet aircraft
+dirt track, dirt road, mud track, unpaved track
+apparel, clothing, garment, clothes, wearing apparel
+pole, post, utility pole, street pole, vertical pole
+land, ground land, land area, dry land, land surface
+bannister, banister, handrail, railing
+escalator, moving staircase, electric escalator, escalator steps, escalator stair
+ottoman, pouf, ottoman seat, upholstered ottoman, footrest ottoman
+bottle, water bottle, glass bottle, plastic bottle, beverage bottle
+buffet, buffet table, sideboard, serving buffet, buffet counter
+poster, wall poster, advertisement poster, printed poster, promo poster
+stage, performance stage, theater stage, concert stage, raised stage
+van, minivan, cargo van, delivery van, panel van
+ship, boat, vessel, large watercraft
+fountain, water fountain, decorative fountain, spray fountain, fountain basin
+conveyerbelt, conveyor belt, moving belt
+canopy, overhead canopy, shade canopy, canopy cover, canopy roof
+washer, washing machine, clothes washer, laundry washer, washer appliance
+plaything, toy, children toy, kids toy, toy figure
+swimmingpool, swimming pool, water pool
+stool, bar stool, backless stool, wooden stool, round stool
+barrel, cask, wood barrel, drum barrel, storage barrel
+basket, woven basket, container
+waterfall, cascade, water cascade, falling water, water fall
+tent, camp tent, camping tent, canvas tent, outdoor tent
+bag, handbag, carry bag, shopping bag, tote bag
+minibike, mini bike, pocket bike, mini motorcycle, mini motorbike
+cradle, baby cradle, infant cradle, baby bed cradle, crib cradle
+oven, baking oven, kitchen oven, stove oven, electric oven
+ball, round ball, sports ball, toy ball, game ball
+food, meal, dish, snack
+step, single step, doorstep, stair step, step edge
+tank, storage tank, water tank, fuel tank, tank container
+trade name, brand name, store name sign, business name
+microwave, microwave oven, microwave cooker, microwave appliance, microwave unit
+pot, cooking pot, flower pot, pan
+animal, creature, wild animal, domestic animal, animal body
+bicycle, pedal bicycle, pedal bike, pushbike, push bike, cycle
+lake, pond, water body
+dishwasher, dish washer, dishwashing machine, kitchen dishwasher, dishwasher appliance
+screen, monitor, display, mesh
+blanket, bed blanket, cover blanket, wool blanket, throw blanket
+sculpture, statue, carving, art
+hood, range hood, kitchen hood, exhaust hood, hood cover, hoods
+sconce, wall sconce, wall lamp, sconce light, wall light fixture
+vase, flower vase, jar
+traffic light, traffic signal, stoplight, signal light, traffic lights, traffic control light
+tray, serving tray, food tray, tray plate, carrying tray
+ashcan, trash can, garbage can, waste bin, rubbish bin
+fan, electric fan, cooling fan, ceiling fan, ventilation fan
+pier, dock pier, wooden pier, seaside pier, jetty
+crt screen, cathode ray screen, crt display, tube screen
+plate, dinner plate, dish plate, serving plate, flat plate
+monitor, computer monitor, lcd monitor, display monitor, pc monitor
+bulletin board, notice board, pin board, corkboard
+shower, shower stall, shower area, bath shower, shower head
+radiator, heater radiator, heat radiator, radiator heater, steam radiator
+glass, drinking glass, window glass
+clock, wall clock, timepiece, analog clock, digital clock
+flag, national flag, banner flag, flag cloth, flag sign

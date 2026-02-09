@@ -1,0 +1,60 @@
+background, sands, cloud, wardrobe, stair, rail
+aeroplane, airplane, aircraft, jet
+bag, handbag, backpack, suitcase, luggage
+bed, bed frame, bedroom bed, sleeping bed
+bedclothes, bed sheet, blanket, pillow, quilt, duvet
+bench, park bench, wooden bench, pew
+bicycle, pedal bicycle, pedal bike, pushbike, push bike, cycle
+bird, wild bird, flying bird, small bird, bird animal, avian
+boat, motorboat, sailboat, fishing boat, small boat
+book, hardcover book, paperback book, book volume, textbook
+bottle, water bottle, glass bottle, plastic bottle, beverage bottle
+building, structure, edifice, building facade, building exterior
+bus, coach, city bus, public bus, transit bus
+cabinet, storage cabinet, kitchen cabinet, cupboard, cabinet unit
+car, automobile, passenger car, sedan, motor car
+cat, feline, kitty
+ceiling, room ceiling, roof interior
+chair, dining chair, wooden chair, side chair, straight chair
+cloth, fabric, piece of cloth, textile, cloth material, rag
+computer, desktop computer, personal computer, pc computer, computer tower
+cow, cattle, bovine
+cup, drinking cup, mug, tea cup, coffee cup
+curtain, drape, window blind, shade
+dog, canine, puppy
+door, doorway, entrance, wooden door
+fence, fencing, wood fence, wire fence, boundary fence
+floor, flooring, ground, carpet, tile
+flower, blossom, bloom, floral plant
+food, meal, foodstuff, edible food, prepared food, food items
+grass, lawn grass, turf, grassland, grassy ground
+ground, ground surface, bare ground, soil ground, dirt ground
+horse, pony, equine
+keyboard, computer keyboard, typing keyboard
+light, lamp, lantern, ceiling light, bulb
+motorbike, motorcycle, motor bike, motor cycle, street motorcycle
+mountain, mountain range, mountain peak, rocky mountain, high mountain
+mouse, computer mouse, clicking device
+person, human, pedestrian, human figure, standing person, people
+plate, dish, saucer, dinner plate
+platform, raised platform, station platform, loading platform, platform deck
+pottedplant, potted plant, houseplant
+road, street, highway, paved path
+rock, stone, boulder, large rock, rock formation
+sheep, wool sheep, sheep animal, lamb, domestic sheep
+shelves, shelf, shelving, storage shelves, wall shelves, shelf unit
+sidewalk, pavement, footpath, walkway
+sign, signboard, signage, street sign, shop sign
+sky, blue sky, cloudy sky, sky background, sky area
+snow, snow cover, snowy ground, snow surface, white snow
+sofa, couch, settee, living room sofa, sectional sofa
+table, dining table, desk, coffee table
+track, train tracks, rail tracks, railway track, track bed
+train, locomotive, passenger train, freight train, rail train
+tree, trunk, foliage, bush
+truck, lorry, pickup, van
+tvmonitor, tv monitor, television monitor, television screen, flat screen tv
+wall, wall surface, vertical wall, interior wall, exterior wall
+water, water surface, standing water, water body, shallow water
+window, window glass, house window, window opening, window frame
+wood, timber, lumber, wooden material, wood surface

@@ -1,0 +1,6 @@
+road, street, sidewalk, driveway
+building, roof
+grass, green grass 
+tree, forest
+car, vehicle
+clutter, background, void area, unknown region

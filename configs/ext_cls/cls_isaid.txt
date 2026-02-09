@@ -1,0 +1,16 @@
+background, clutter, void area, unknown region
+ship, cargo ship, yacht, barge, boat, sailboat
+store tank, storage tank, circular container, cylindrical container, oil tank
+baseball diamond, baseball field
+tennis court, tennis field
+basketball court, basketball field
+ground track field, running track, elliptical running track
+bridge, highway bridge, railway bridge, overpass
+large vehicle, truck, bus, tanker, engineering vehicle
+small vehicle, sedan, SUV, small van, small truck
+helicopter
+swimming pool, piscine, pool
+roundabout, circular traffic junction
+soccer ball field, soccer ball court, football field, football court
+plane, civil airliner, fighter jet, small private aircraft
+harbor, seaport, port, haven
