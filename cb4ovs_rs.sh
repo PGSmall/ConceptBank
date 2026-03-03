@@ -8,7 +8,7 @@ LOGFILE=${2:-"logs_rs.txt"}
 # MKL_NUM_THREADS=1 \
 # TORCH_CUDNN_SDPA_ENABLED=1 \
 # torchrun --nproc_per_node="${NGPUS}" --master_port=29500 \
-#   sam3_concept_bank_time.py \
+#   sam3_concept_bank.py \
 #   --users "loveda=configs/cfg_loveda.py,
 #            potsdam=configs/cfg_potsdam.py,
 #            vaihingen=configs/cfg_vaihingen.py,
