@@ -1,4 +1,5 @@
 #!/bin/bash
+# ConceptBank
 
 NGPUS=${1:-4}
 LOGFILE=${2:-"logs_ns.txt"}
@@ -8,7 +9,7 @@ LOGFILE=${2:-"logs_ns.txt"}
 # MKL_NUM_THREADS=1 \
 # TORCH_CUDNN_SDPA_ENABLED=1 \
 # torchrun --nproc_per_node="${NGPUS}" --master_port=29500 \
-#   sam3_concept_bank_time.py \
+#   sam3_concept_bank.py \
 #   --users "voc21=configs/cfg_voc21.py,
 #            context60=configs/cfg_context60.py,
 #            coco_object=configs/cfg_coco_object.py,
