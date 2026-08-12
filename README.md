@@ -1,4 +1,4 @@
-# <img src="assets/cb-logo.png" width="130" style="vertical-align: middle;" alt="ConceptBank Logo"/> Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation
+# <img src="assets/cb-logo.png" width="130" style="vertical-align: middle;" alt="ConceptBank Logo"/> Taming SAM3 under Distribution Shift: $\text{\rm C{\tiny ONCEPT}B{\tiny ANK}}$ for Support-Assisted Open-Vocabulary Segmentation
 
 
 ### 🔍 Drift Robustness
@@ -21,7 +21,7 @@ We demonstrate **ConceptBank's** ability to handle real-world distribution shift
 
 
 
- <small><i>Target-Aligned</i></small></th>
+ <small><i>Target-Calibrated</i></small></th>
 <th width="40%">Original SAM3 
 
 
@@ -62,7 +62,7 @@ We demonstrate **ConceptBank's** ability to handle real-world distribution shift
 
 
 
- <small><i>Robust Adaptation</i></small></th>
+ <small><i>Target-Calibrated</i></small></th>
 <th width="40%">Original SAM3 
 
 
@@ -81,15 +81,7 @@ We demonstrate **ConceptBank's** ability to handle real-world distribution shift
 
 ## I. Abstract
 
-The recent introduction of **SAM3** has revolutionized Open-Vocabulary Segmentation (OVS) through *promptable concept segmentation*, which grounds pixel predictions in flexible concept prompts. However, this reliance on pre-defined concepts makes the model vulnerable: when visual distributions shift (*data drift*) or conditional label distributions evolve (*concept drift*) in the target domain, the alignment between visual evidence and prompts breaks down.
-
-In this work, we present **ConceptBank**, a parameter-free calibration framework to restore this alignment on the fly. Instead of adhering to static prompts, we construct a dataset-specific concept bank from the target statistics. Our approach:
-
-1. Anchors target-domain evidence via class-wise visual prototypes.
-2. Mines representative supports to suppress outliers under data drift.
-3. Fuses candidate concepts to rectify concept drift.
-
-We demonstrate that **ConceptBank** effectively adapts SAM3 to distribution drifts, including challenging natural-scene and remote-sensing scenarios, establishing a new baseline for robustness and efficiency in OVS.
+Open-vocabulary segmentation (OVS) specifies categories through language, but text-conditioned states can become unreliable under target-domain shift. We study an offline support-assisted setting in which a language-specified deployment vocabulary and a disjoint target-domain support split covering that vocabulary are available once before inference. This protocol is not support-free or zero-shot; rather, it asks whether a frozen language-conditioned segmenter can be calibrated without optimizing model, adapter, or prompt parameters and without retrieving supports at test time. We attribute prompt-target misalignment to data drift, which changes class appearance, and taxonomy-induced concept shift, which changes the operational meaning of a label. We propose ConceptBank, which estimates target visual prototypes, mines prototype-consistent supports, functionally scores candidate descriptions by their induced masks, and fuses the strongest structured conditioning states into one anchor per supported class. Across eight natural-scene evaluation protocols and four remote-sensing datasets, pseudo-mask-supported ConceptBank improves frozen SAM3 from 57.5 to **64.5** and from 39.1 to **47.5** average mIoU; using ground-truth support masks further raises performance to **67.1** and **52.1**. The resulting bank preserves cached single-prompt throughput and requires neither support retrieval nor parameter updates at inference.
 
 ---
 
