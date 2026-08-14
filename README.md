@@ -1,4 +1,13 @@
-# <img src="assets/cb-logo.png" width="130" style="vertical-align: middle;" alt="ConceptBank Logo"/> Taming SAM3 under Distribution Shift: $\text{\rm C{\tiny ONCEPT}B{\tiny ANK}}$ for Support-Assisted Open-Vocabulary Segmentation
+<table>
+  <tr>
+    <td valign="middle" style="border: none; background: transparent;">
+      <img src="assets/cb-logo.png" width="380" alt="ConceptBank Logo"/>
+    </td>
+    <td valign="middle" style="border: none; background: transparent;">
+      <h1>Taming SAM3 under Distribution Shift: $\mathrm{C{\scriptsize ONCEPT}B{\scriptsize ANK}}$ for Support-Assisted Open-Vocabulary Segmentation</h1>
+    </td>
+  </tr>
+</table>
 
 
 ### 🔍 Drift Robustness
